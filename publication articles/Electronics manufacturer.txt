@@ -1,0 +1,30 @@
+Jonathan Greig
+August 22nd, 2025
+News
+Cybercrime
+
+Get more insights with the
+Recorded Future
+Intelligence Cloud.
+Learn more.
+Recorded Future
+Electronics manufacturer Data I/O reports ransomware attack to SEC
+Tech manufacturer Data I/O reported a ransomware attack to federal regulators on Thursday evening, writing that the incident has taken down critical operational systems.
+
+The Redmond, Washington-based company said the ransomware attack began on August 16 and prompted outages of the technology used for shipping, manufacturing, production and other support functions.
+
+Data I/O produces electronics used in vehicles and consumer devices. More than 65% of its business in the second quarter came from automotive electronic production, including through recent contracts with Chinese electric vehicle makers producing technology for charging stations. Its website lists major companies like Tesla, Panasonic, Amazon, Google and Microsoft as customers.
+
+In an 8K report filed with the United States Securities and Exchange Commission (SEC), Data I/O said it has implemented containment measures, including taking systems offline, to protect its global IT network. 
+
+The company is waiting on a third-party investigation to be completed before notifying potential data breach victims. 
+
+There is no timeline for a full restoration of services. The company admitted that the “expected costs related to the incident, including fees for our cybersecurity experts and other advisors, and costs to restore any impacted systems, are reasonably likely to have a material impact on the Company’s results of operations and financial condition.”
+
+The company reported $5.9 million in sales last quarter, a $300,000 decrease compared to the first quarter of 2025.
+
+Data I/O is the second company this week to report a ransomware attack to the SEC after drug research firm Inotiv said it was recovering from an incident that began on August 8. 
+
+Cybersecurity firm Dragos said last week that it tracked 657 ransomware attacks on industrial entities globally between April and June. The manufacturing sector was hit hardest, accounting for 65% of victims in the second quarter — including steel manufacturer Nucor and medical device maker Masimo.
+
+
